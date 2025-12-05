@@ -1,9 +1,5 @@
 # Deep Archetypal Analysis Frameworks: Comparative Evaluation
 
-A comparative study on the effectiveness, stability, and interpretability of classical linear Archetypal Analysis (AA) versus the deep learning-based Archetypal Analysis Network (AAnet).
-
----
-
 ## 1. Project Description
 Archetypal Analysis (AA) is a matrix decomposition technique representing data points as a convex combination of extreme data points, referred to as archetypes. By capturing boundary patterns, AA provides a geometric description that enhances interpretability, especially in high-dimensional settings. This repository evaluates the trade-offs between classical Linear AA and the non-linear AAnet.
 
